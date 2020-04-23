@@ -3,7 +3,7 @@
 
 This is a short Deep Learning project to recognize digit images. I built a Digit Recognizer model using Keras Sequential Conv2D Neural Network.
 
-Data from Kaggle "Digit Recognizer": https://www.kaggle.com/c/digit-recognizer/overview
+Data from Kaggle "Digit Recognizer": https://www.kaggle.com/c/digit-recognizer
 
 
 ### Competition Description
