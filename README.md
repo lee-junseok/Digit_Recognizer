@@ -15,6 +15,7 @@ In this competition, your goal is to correctly identify digits from a dataset of
 Computer vision fundamentals including simple neural networks
 
 Classification methods such as SVM and K-nearest neighbors
+
 '''
 
 Built a Digit Recognizer model using Keras Sequential Conv2D Neural Network.
