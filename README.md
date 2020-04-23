@@ -3,4 +3,16 @@ Learn computer vision fundamentals with the famous MNIST data
 
 https://www.kaggle.com/c/digit-recognizer/overview
 
-Using Keras, TensorFlow.
+'''
+Competition Description
+MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
+
+In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
+
+Practice Skills
+Computer vision fundamentals including simple neural networks
+
+Classification methods such as SVM and K-nearest neighbors
+'''
+
+Built a Digit Recognizer model using Keras Sequential Conv2D Neural Network.
